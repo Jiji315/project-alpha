@@ -27,7 +27,7 @@ label intro:
     m "Oh I'm sorry!"
     "Wait....is that..."
     m "LUCAS!!!! I've missed you so much! "
-    "He was my childhoosd friend from elementary school, now I know luck is on my side!"
+    "He was my childhood friend from elementary school, now I know luck is on my side!"
     l "huh you're....oh gosh...we used to swim in the lake, go hang out at the park..."
     l "Sorry it's been so long, what is your name again? I feel terrible, but I really do remember you."
     $ p = renpy.input("What is your name?") 
